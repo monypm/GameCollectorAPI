@@ -1,0 +1,19 @@
+{
+  "name": "gamecollectorapi",
+  "version": "0.0.4",
+  "private": true,
+  "description": "GameCollector Api REST v4",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "lodash": "^4.17.4",
+    "shortid": "^2.2.8",
+    "swagger-express-mw": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
